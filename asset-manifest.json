@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/astradot-exercise/static/css/main.5f361e03.chunk.css",
+    "main.js": "/astradot-exercise/static/js/main.7bc29401.chunk.js",
+    "main.js.map": "/astradot-exercise/static/js/main.7bc29401.chunk.js.map",
+    "runtime-main.js": "/astradot-exercise/static/js/runtime-main.9631a315.js",
+    "runtime-main.js.map": "/astradot-exercise/static/js/runtime-main.9631a315.js.map",
+    "static/js/2.c0e47894.chunk.js": "/astradot-exercise/static/js/2.c0e47894.chunk.js",
+    "static/js/2.c0e47894.chunk.js.map": "/astradot-exercise/static/js/2.c0e47894.chunk.js.map",
+    "index.html": "/astradot-exercise/index.html",
+    "precache-manifest.31998d2ea8e5d5ae7c3203072b43f665.js": "/astradot-exercise/precache-manifest.31998d2ea8e5d5ae7c3203072b43f665.js",
+    "service-worker.js": "/astradot-exercise/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/astradot-exercise/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c0e47894.chunk.js.LICENSE.txt": "/astradot-exercise/static/js/2.c0e47894.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9631a315.js",
+    "static/js/2.c0e47894.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7bc29401.chunk.js"
+  ]
+}
